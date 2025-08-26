@@ -70,6 +70,7 @@ The dashboard provides the following visualizations:
 
 1. Clone this repository:  
    ```bash
+   git clone https://github.com/pushpaa86/netflix-powerbi-analysis.git
 2. Open the dataset file:
 
 netflix_titles.csv (provided in this repo 📂).
@@ -83,5 +84,3 @@ netflix_titles.csv (provided in this repo 📂).
 
 👩‍💻 Pushpanjali Mamidakula
 [LinkedIn Profile](https://www.linkedin.com/in/pushpanjali-mamidakula-160083220/)
-   git clone https://github.com/pushpaa86/netflix-powerbi-analysis.git
-
