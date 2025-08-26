@@ -5,7 +5,7 @@ This project explores the **Netflix Movies and TV Shows dataset** with **Power B
 ---
 
 ## 📂 Dataset  
-The dataset used: **`netflix_titles.csv`**  
+The dataset used: **`netflix_titles.csv`** (already included in this repository 📁).  
 It contains details of Netflix content including:  
 
 - 📌 Title  
@@ -70,5 +70,18 @@ The dashboard provides the following visualizations:
 
 1. Clone this repository:  
    ```bash
+2. Open the dataset file:
+
+netflix_titles.csv (provided in this repo 📂).
+
+3. Open the Power BI file (.pbix) in Power BI Desktop.
+
+4. Explore the dashboard and insights.
+
+
+📬 Connect
+
+👩‍💻 Pushpanjali Mamidakula
+[LinkedIn Profile](https://www.linkedin.com/in/pushpanjali-mamidakula-160083220/)
    git clone https://github.com/pushpaa86/netflix-powerbi-analysis.git
 
