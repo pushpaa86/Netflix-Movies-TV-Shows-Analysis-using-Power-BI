@@ -30,7 +30,7 @@ Steps performed in **Power Query** before visualization:
 - ✅ Converted data types (numbers, text, dates) properly.  
 
 📸 *Power Query Transformation Screenshot:*  
-![Power Query Screenshot](Screenshot%20(124).png)
+![Power Query Screenshot](Screenshot%20(124).png)  
 
 ---
 
@@ -42,8 +42,11 @@ The dashboard provides the following visualizations:
 2. **Show Count by Rating** → Bar chart representing distribution across age ratings (TV-MA, TV-14, PG, etc.).  
 3. **Show Count by Country** → Horizontal bar chart showing top content-producing countries.  
 
-📸 *Power BI Dashboard Screenshot:*  
-![Power BI Dashboard](Screenshot%20(125).png)
+📸 *Power BI Dashboard Screenshots:*  
+![Power BI Dashboard](Screenshot%20(125).png)  
+![Power BI Dashboard](Screenshot%20(126).png)  
+![Power BI Dashboard](Screenshot%20(127).png)  
+![Power BI Dashboard](Screenshot%20(130).png)  
 
 ---
 
@@ -58,5 +61,14 @@ The dashboard provides the following visualizations:
 ## ⚡ Tools & Technologies  
 
 - **Power BI Desktop** → Dashboard and visualization  
-- **Power Query**
+- **Power Query** → Data cleaning & transformation  
+- **CSV Dataset** → Netflix titles dataset  
+
+---
+
+## 📌 How to Use  
+
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/pushpaa86/netflix-powerbi-analysis.git
 
